@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'trail-jee'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28EAF41D766B4F648D6B10BB0661116C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAC870CAD2B84FFE90857C28EC45AD4B }}
